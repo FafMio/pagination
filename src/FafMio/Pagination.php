@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace FafMio;
 
 use InvalidArgumentException;
 
